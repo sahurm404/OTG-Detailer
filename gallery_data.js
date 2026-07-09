@@ -1,0 +1,40 @@
+window.galleryData = {
+  "featured": [
+    "Work/Sipho/IMG_2756(1).JPG",
+    "Work/Sipho/IMG_2751(1).JPG",
+    "Work/Sipho/IMG_2759.JPG"
+  ],
+  "gallery": [
+    "Work/Sipho/IMG_2756(1).JPG",
+    "Work/Sipho/IMG_2751(1).JPG",
+    "Work/Sipho/IMG_2759.JPG",
+    "Work/Sipho/IMG_2755(1).JPG",
+    "Work/Sipho/IMG_2753(1).JPG",
+    "Work/Sipho/IMG_2758(1).JPG",
+    "Work/Sipho/IMG_2752(1).JPG",
+    "Work/Sipho/IMG_2757(1).JPG",
+    "Work/Sipho/IMG_2754(1).JPG",
+    "Work/Sipho/IMG_2749.JPG",
+    "Work/Sipho/IMG_2748.JPG",
+    "Work/Sipho/IMG_2750.JPG",
+    "Work/Sipho/20251026_155910_Original.jpg",
+    "Work/Sipho/20251026_134730_Original.jpg",
+    "Work/Sipho/20251026_134638_Original.jpg",
+    "Work/Sipho/20251026_134620_Original.jpg",
+    "Work/Sipho/20251026_134829_Original.jpg",
+    "Work/Sipho/20251026_134529_Original.jpg",
+    "Work/Sipho/20251026_160209_Original.jpg",
+    "Work/Sipho/IMG_2383.JPG",
+    "Work/Sipho/20251026_160223_Original.jpg",
+    "Work/Sipho/IMG_2384.JPG",
+    "Work/Sipho/20251026_155855_Original.jpg",
+    "Work/Sipho/20251026_155302_Original.jpg",
+    "Work/Sipho/20251026_160005_Original.jpg",
+    "Work/Sipho/IMG_2385.JPG",
+    "Work/Sipho/fafd77c7-2ef4-4d38-8c41-068e2da0b3e8.JPG",
+    "Work/Sipho/IMG_2381.JPG",
+    "Work/Sipho/IMG_2380.JPG",
+    "Work/Sipho/IMG_2382.JPG"
+  ],
+  "lastUpdated": "2026-07-09T09:06:39.274Z"
+};
