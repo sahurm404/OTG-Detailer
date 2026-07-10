@@ -36,5 +36,5 @@ window.galleryData = {
     "Work/Sipho/IMG_2380.JPG",
     "Work/Sipho/IMG_2382.JPG"
   ],
-  "lastUpdated": "2026-07-09T15:12:20.141Z"
+  "lastUpdated": "2026-07-10T13:02:17.164Z"
 };
