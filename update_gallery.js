@@ -54,8 +54,10 @@ function generateGallery() {
         }
     }
     
-    // Extract top 3 as featured
-    const featured = uniqueImages.slice(0, 3).map(img => img.relativePath);
+    // Filter out BMW X5 images from being featured
+    const bmwX5Pattern = /IMG_275[0-9]/;
+    const featuredPool = uniqueImages.filter(img => !bmwX5Pattern.test(img.name));
+    const featured = featuredPool.slice(0, 3).map(img => img.relativePath);
     
     // The rest of the images
     const gallery = uniqueImages.map(img => img.relativePath);

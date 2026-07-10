@@ -1,8 +1,8 @@
 window.galleryData = {
   "featured": [
-    "Work/Sipho/IMG_2756(1).JPG",
-    "Work/Sipho/IMG_2751(1).JPG",
-    "Work/Sipho/IMG_2759.JPG"
+    "Work/Sipho/IMG_2749.JPG",
+    "Work/Sipho/IMG_2748.JPG",
+    "Work/Sipho/20251026_155910_Original.jpg"
   ],
   "gallery": [
     "Work/Sipho/IMG_2756(1).JPG",
@@ -36,5 +36,5 @@ window.galleryData = {
     "Work/Sipho/IMG_2380.JPG",
     "Work/Sipho/IMG_2382.JPG"
   ],
-  "lastUpdated": "2026-07-09T09:06:39.274Z"
+  "lastUpdated": "2026-07-09T15:12:20.141Z"
 };
